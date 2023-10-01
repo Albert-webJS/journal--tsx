@@ -1,0 +1,7 @@
+.article-preview {
+	width: 100%;
+	max-width: 362px;
+	height: 98px;
+	padding: 30px 5px;
+	color: var(--color-white);
+}

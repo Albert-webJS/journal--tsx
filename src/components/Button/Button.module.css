@@ -1,0 +1,22 @@
+.button {
+	width: 100%;
+	max-width: 135px;
+	height: 42px;
+	border-radius: 6px;
+	padding: 8px 30px;
+	font-weight: 400px;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+	background-color: var(--dark-blue-color);
+	color: var(--color-white);
+	transition: background-color 0.25s;
+}
+
+.button:hover {
+	background-color: #222096;
+}
+
+.accent {
+	background-color: #312EB5;
+}
